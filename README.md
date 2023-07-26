@@ -20,7 +20,7 @@ Key Features:
 Technologies Used:
 - Backend: Node.js, Express.js, MongoDB with Mongoose for database management.
 - Frontend: React.js with Redux for state management and UI components.
-- Styling: Bootstrap framework for responsive and modern design.
+- Styling: CSS TailWind framework for responsive and modern design.
 
 Setup and Installation:
 1. Clone the repository and navigate to the project folder.
